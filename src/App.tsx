@@ -144,7 +144,7 @@ Would you like me to help you implement this fix?`,
     document.body.appendChild(responseDiv);
 
     try {
-      const response = await fetch("http://localhost:5000/chat", {
+      const response = await fetch("https://dev-backendvercel.vercel.app/chat", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
