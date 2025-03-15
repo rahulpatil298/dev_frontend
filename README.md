@@ -83,7 +83,7 @@ Want to dive deeper? Check out our full documentation:
 📄(https://drive.google.com/file/d/1e-n8FcxVs6Ok4qSjT9ydzQvBnC4l2Y1a/view?usp=sharing)
 
 🌍 Live Project
-
+https://bagjasoos.netlify.app/
 Experience Bug Jasoos in action: Live Link
 
 🎯 Bug Jasoos - The AI Code Detective You Always Needed! 🕵‍♂💡
