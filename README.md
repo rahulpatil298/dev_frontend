@@ -56,7 +56,7 @@ GitHub account (for repository integration) 🔗
 
 1️⃣ Clone the repository:
 
-git clone https://github.com/your-username/bug-jasoos.git
+git clone https://github.com/rahulpatil298/dev_frontend.git
 
 2️⃣ Navigate to the project directory:
 
